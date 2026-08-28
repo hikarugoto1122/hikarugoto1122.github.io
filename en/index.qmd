@@ -1,0 +1,136 @@
+---
+title: "Hikaru Goto, PhD"
+description: "Academic website of Hikaru Goto, a service marketing researcher studying customer participation, customer experience, value co-creation, and transformative services."
+lang: en
+page-layout: full
+---
+
+::: {.site-shell}
+::: {.page-header}
+# Hikaru Goto, PhD
+
+Assistant Professor · Service Marketing and Consumer Research
+:::
+
+::: {.section-block}
+<p class="section-label">Profile</p>
+
+## I study how customer participation shapes service experiences and outcomes
+
+:::: {.english-profile-grid}
+::: {.english-profile-copy}
+I am an Assistant Professor in the Faculty of Business Administration at Osaka University of Economics and Law. My research examines the demands placed on customers during service use and customers’ readiness to meet those demands. I am particularly interested in why customers facing similar service requirements follow different paths: continuing independently, seeking support, switching to another option, postponing, or discontinuing service use.
+
+My work connects customer participation and customer co-creation readiness with customer experience, value co-creation and value co-destruction, continued use, and well-being. Before joining academia, I worked in the private sector. I received a PhD in Knowledge Science from the Japan Advanced Institute of Science and Technology and an MBA from Doshisha University.
+
+::: {.profile-links}
+[researchmap](https://researchmap.jp/hikarugoto){.profile-link}
+[ORCID](https://orcid.org/0009-0005-2092-1776){.profile-link}
+[X](https://x.com/hikaru1122){.profile-link}
+[LinkedIn](https://www.linkedin.com/in/hikaru-goto-934760423){.profile-link}
+:::
+:::
+
+::: {.english-profile-aside}
+<div class="profile-photo-frame">
+<img src="../gotohikaru2024.jpg" alt="Hikaru Goto" class="profile-photo" loading="lazy">
+</div>
+:::
+::::
+:::
+
+::: {.section-block}
+<p class="section-label">Research Interests</p>
+
+## Four connected areas guide my research
+
+:::: {.fact-grid}
+::: {.fact-card}
+### Customer participation and readiness
+
+Customer participation and customer co-creation readiness, including the knowledge, capabilities, motivation, and resources needed for service use.
+:::
+
+::: {.fact-card}
+### Customer experience and behavior
+
+Customer experience quality, relative satisfaction, continued use, and the structural disconnection between favorable evaluations and behavioral outcomes.
+:::
+
+::: {.fact-card}
+### Value formation and well-being
+
+Value co-creation, value co-destruction, resource integration, and the conditions under which services improve or diminish well-being.
+:::
+
+::: {.fact-card}
+### Transformative service research
+
+Service systems that support customer agency and participation, especially in healthcare and other professional service contexts.
+:::
+::::
+:::
+
+::: {.section-block}
+<p class="section-label">Selected Publications</p>
+
+## Recent journal articles
+
+::: {.publication-list}
+::: {.publication-entry}
+<p class="publication-year">2026</p>
+
+### Framing the Attitude-Behavior Gap as Structural Disconnection: A Dual-Level Diagnostic of Customer Experience Quality
+
+<p class="citation">Goto, H. (2026). <em>Journal of Retailing and Consumer Services</em>, 92, 104814.</p>
+
+::: {.publication-links}
+[Published version](https://doi.org/10.1016/j.jretconser.2026.104814){.publication-link}
+[Accepted manuscript](../AAM/aam-jrcs-2026/aam-jrcs-2026.pdf){.publication-link .publication-link-aam}
+[Data (CSV)](../AAM/aam-jrcs-2026/df.csv){.publication-link}
+[R script](../AAM/aam-jrcs-2026/Rcode_dfcsv_revision.R){.publication-link}
+:::
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2025</p>
+
+### Value Co-Destruction Causing Customers to Stop Service Usage: A Topic Modelling Analysis of Dental Service Complaint Data
+
+<p class="citation">Goto, H., Belal, H. M., & Shirahada, K. (2025). <em>Annals of Operations Research</em>, 348, 1691–1711.</p>
+
+::: {.publication-links}
+[Open access](https://doi.org/10.1007/s10479-022-05045-z){.publication-link}
+:::
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2022</p>
+
+### Customer Analysis and ISM Practice by ID-POS in Drugstores for Narrow Trade Areas
+
+<p class="citation">Goto, H., Oike, Y., & Yamashita, T. (2022). <em>Marketing Review</em>, 3(1), 3–11.</p>
+
+::: {.publication-links}
+[Open access](https://doi.org/10.7222/marketingreview.2022.001){.publication-link}
+:::
+:::
+:::
+
+::: {.action-links style="margin-top: 1.5rem;"}
+[Full publication list](../publications.qmd){.action-link .action-link-primary}
+:::
+:::
+
+::: {.section-block}
+<p class="section-label">Contact</p>
+
+## Get in touch
+
+For inquiries regarding research collaboration, invited talks, teaching, or publications, please use the inquiry form. You may also email h-goto [at] keiho-u.ac.jp.
+
+::: {.action-links}
+[Open inquiry form](https://forms.gle/SeJAqTao3J6KAQGbA){.action-link .action-link-primary}
+:::
+:::
+:::

@@ -1,0 +1,19 @@
+meta:
+  name: "Hikaru Goto"
+  link: "https://hikarugoto.com"
+
+color:
+  palette:
+    warm-white: "#FAF9F5"
+    white: "#FFFFFF"
+    ink: "#2C363F"
+    blue: "#2A6B9C"
+    blue-dark: "#1F557D"
+    coral: "#D96C5B"
+    coral-dark: "#B85043"
+    muted: "#65717A"
+    line: "#D8DEE3"
+  primary: blue
+  foreground: ink
+  background: warm-white
+

@@ -1,0 +1,14 @@
+/.quarto/
+/_site/
+/.playwright-cli/
+/output/
+/top1.jpg
+/.DS_Store
+**/.DS_Store
+/.Rhistory
+/AAM/aam-jrcs-2026/outputs/
+/ドメイン情報.txt
+/ドメイン情報.txt
+
+
+**/*.quarto_ipynb

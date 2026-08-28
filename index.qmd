@@ -1,0 +1,142 @@
+---
+title: "五島 光（Hikaru Goto）｜サービスマーケティング研究者"
+pagetitle: "五島 光（Hikaru Goto）｜サービスマーケティング研究者"
+title-prefix: ""
+description: "五島光（Hikaru Goto）は大阪経済法科大学経営学部の助教。サービスマーケティングと消費者行動を専門に、顧客参加、顧客共創準備性（CCCR）、顧客経験、価値共創・価値共破壊を研究しています。"
+author-meta: "五島 光 / Hikaru Goto"
+image: "gotohikaru2024.jpg"
+image-alt: "五島 光（Hikaru Goto）のプロフィール写真"
+page-layout: full
+format:
+  html:
+    include-in-header:
+      - includes/index-head.html
+---
+
+:::: {.site-shell .home-shell}
+::: {.hero}
+<p class="eyebrow">What I Study · Service Marketing</p>
+
+# サービスを通じて、人は価値ある成果にたどり着けるのか
+
+<p class="lead">サービスが提供されているだけでは、顧客がその価値を実現できるとは限りません。サービスが顧客に求める参加と、顧客の資源・準備性・支援環境との関係に注目し、誰が、どのような条件のもとでサービスの価値を実現できるのか、そしてその違いがなぜ生じるのかを研究しています。</p>
+:::
+
+::: {.section-block}
+<p class="section-label">Profile</p>
+
+## 研究者プロフィール
+
+:::: {.intro-grid}
+::: {.intro-panel}
+### 五島 光 / Hikaru Goto {.profile-name}
+
+<p class="profile-credentials">博士（知識科学）<br>大阪経済法科大学 経営学部 助教</p>
+
+専門はサービスマーケティングと消費者行動です。顧客がサービスに参加するために必要な知識・能力・動機・資源と、企業やサービスシステムがその参加をどのように支えるかに関心があります。これらの相互作用が、顧客経験や利用行動、サービスから得られる価値の違いを生む仕組みを研究しています。
+
+企業勤務を経て、2025年より現職。経歴の詳細は[researchmap](https://researchmap.jp/hikarugoto)をご覧ください。
+:::
+
+::: {.intro-panel .profile-aside}
+<div class="profile-photo-frame">
+<img src="gotohikaru2024.jpg" alt="五島 光" class="profile-photo" loading="lazy">
+</div>
+
+### Profiles
+
+::: {.profile-links}
+[researchmap](https://researchmap.jp/hikarugoto){.profile-link rel="me"}
+[ORCID](https://orcid.org/0009-0005-2092-1776){.profile-link rel="me"}
+[X](https://x.com/hikaru1122){.profile-link rel="me"}
+[LinkedIn](https://www.linkedin.com/in/hikaru-goto-934760423){.profile-link rel="me"}
+:::
+:::
+::::
+:::
+
+::: {.section-block}
+<p class="section-label">Research Focus</p>
+
+## 研究の焦点は「顧客の参加から生じる違い」
+
+:::: {.research-grid}
+::: {.research-card}
+<p class="number">01</p>
+
+### 顧客参加と顧客共創準備性
+
+顧客がサービスに参加するための知識、能力、動機、資源を捉え、顧客共創準備性（Customer Co-Creation Readiness: CCCR）の概念化と測定に取り組んでいます。
+:::
+
+::: {.research-card}
+<p class="number">02</p>
+
+### 顧客経験と行動成果
+
+顧客経験が相対的満足や継続利用、支出配分などの行動成果へどうつながるのかを主に量的分析で検討しています。
+:::
+
+::: {.research-card}
+<p class="number">03</p>
+
+### 価値共創・価値共破壊
+
+顧客と提供者の資源統合がうまくいく条件と、すれ違いや利用中断を生む条件を明らかにし、サービスが人の生活を支えるあり方を考えています。
+:::
+::::
+
+::: {.action-links style="margin-top: 1.5rem;"}
+[研究内容を詳しく見る](research.qmd){.action-link .action-link-secondary}
+:::
+:::
+
+::: {.section-block}
+<p class="section-label">Selected Publications</p>
+
+## 主要論文
+
+::: {.publication-list}
+::: {.publication-entry}
+<p class="publication-year">2026 · Journal Article</p>
+
+### Framing the Attitude-Behavior Gap as Structural Disconnection: A Dual-Level Diagnostic of Customer Experience Quality
+
+<p class="citation">Goto, H. <em>Journal of Retailing and Consumer Services</em>, 92, 104814.</p>
+
+::: {.publication-links}
+[Published version](https://doi.org/10.1016/j.jretconser.2026.104814){.publication-link}
+[Accepted manuscript](AAM/aam-jrcs-2026/aam-jrcs-2026.pdf){.publication-link .publication-link-aam}
+:::
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2025 · Journal Article</p>
+
+### Value Co-Destruction Causing Customers to Stop Service Usage: A Topic Modelling Analysis of Dental Service Complaint Data
+
+<p class="citation">Goto, H., Belal, H. M., & Shirahada, K. <em>Annals of Operations Research</em>, 348, 1691–1711.</p>
+
+::: {.publication-links}
+[Open access](https://doi.org/10.1007/s10479-022-05045-z){.publication-link}
+:::
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2022 · Journal Article</p>
+
+### 狭小商圏型ドラッグストアにおけるID-POSによる顧客分析とISM構築
+
+<p class="citation">五島 光・尾池 勇紀・山下 貴子『マーケティングレビュー』3(1), 3–11.</p>
+
+::: {.publication-links}
+[Open access](https://doi.org/10.7222/marketingreview.2022.001){.publication-link}
+:::
+:::
+:::
+
+::: {.action-links style="margin-top: 1.5rem;"}
+[すべての研究成果を見る](publications.qmd){.action-link .action-link-primary}
+:::
+:::
+::::

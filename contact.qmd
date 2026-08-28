@@ -1,0 +1,44 @@
+---
+title: "Contact"
+description: "五島光への研究、共同研究、講演・授業、研究成果に関する問い合わせ先。"
+page-layout: full
+---
+
+::: {.site-shell}
+::: {.page-header}
+# Contact
+
+お問い合わせ
+:::
+
+::: {.section-block}
+<p class="section-label">Inquiry</p>
+
+## お問い合わせ
+
+研究内容、共同研究、講演・授業、取材、研究成果に関するお問い合わせは、下記のフォームをご利用ください。内容を確認のうえ、必要に応じてご連絡します。営業・勧誘を目的とする連絡には返信しない場合があります。
+
+::: {.contact-panel}
+### Inquiry form
+
+[問い合わせフォームを開く](https://forms.gle/SeJAqTao3J6KAQGbA){.action-link .action-link-primary}
+
+### Email
+
+<p>h-goto [at] keiho-u.ac.jp<br><small>表示上の [at] は @ に読み替えてください。</small></p>
+:::
+:::
+
+::: {.section-block}
+<p class="section-label">English</p>
+
+## Inquiries in English
+
+For inquiries regarding research collaboration, invited talks, teaching, or publications, please use the inquiry form. Messages concerning unsolicited sales may not receive a response.
+
+::: {.action-links}
+[Open inquiry form](https://forms.gle/SeJAqTao3J6KAQGbA){.action-link .action-link-primary}
+[English profile](en/index.qmd){.action-link .action-link-secondary}
+:::
+:::
+:::

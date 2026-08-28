@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - robots.txt
+    - gotohikaru2024.jpg
+    - top2.jpg
+    - AAM/aam-jrcs-2026/aam-jrcs-2026.pdf
+    - AAM/aam-jrcs-2026/df.csv
+    - AAM/aam-jrcs-2026/Rcode_dfcsv_revision.R
+
+website:
+  title: "Hikaru Goto"
+  site-url: "https://hikarugoto.com"
+  description: "五島光（大阪経済法科大学）の研究者個人サイト。サービスマーケティング、顧客経験、価値共創、顧客共創準備性、Transformative Service Researchに関する研究成果を掲載しています。"
+  favicon: assets/favicon.svg
+  image: "https://hikarugoto.com/gotohikaru2024.jpg"
+  open-graph: true
+  twitter-card: true
+  search: false
+  navbar:
+    title: "Hikaru Goto"
+    background: "#FFFFFF"
+    pinned: true
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: materials.qmd
+        text: Materials
+      - href: contact.qmd
+        text: Contact
+      - href: en/index.qmd
+        text: English
+  page-footer:
+    background: "#FFFFFF"
+    left: "© 2026 Hikaru Goto"
+    right:
+      - text: researchmap
+        href: https://researchmap.jp/hikarugoto
+      - text: ORCID
+        href: https://orcid.org/0009-0005-2092-1776
+      - text: X
+        href: https://x.com/hikaru1122
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/hikaru-goto-934760423
+
+format:
+  html:
+    theme: [cosmo, brand, styles.scss]
+    lang: ja
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true

@@ -1,0 +1,145 @@
+---
+title: "Publications"
+description: "五島光の査読論文、査読付き国際会議論文、書籍・分担執筆、学位論文、主な学会発表。"
+page-layout: full
+---
+
+::: {.site-shell}
+::: {.page-header}
+# Publications
+
+研究成果と公開資料
+:::
+
+::: {.publication-group}
+## Peer-reviewed Journal Articles／査読論文
+
+::: {.publication-list}
+::: {.publication-entry}
+<p class="publication-year">2026</p>
+
+### Framing the Attitude-Behavior Gap as Structural Disconnection: A Dual-Level Diagnostic of Customer Experience Quality
+
+<p class="citation">Goto, H. (2026). <em>Journal of Retailing and Consumer Services</em>, 92, 104814.</p>
+
+<p class="publication-meta">DOI: 10.1016/j.jretconser.2026.104814</p>
+
+::: {.publication-links}
+[Published version](https://doi.org/10.1016/j.jretconser.2026.104814){.publication-link}
+[Accepted manuscript](AAM/aam-jrcs-2026/aam-jrcs-2026.pdf){.publication-link .publication-link-aam}
+[Data (CSV)](AAM/aam-jrcs-2026/df.csv){.publication-link}
+[R script](AAM/aam-jrcs-2026/Rcode_dfcsv_revision.R){.publication-link}
+:::
+
+<p class="publication-note">著者最終稿は出版社版ではありません。ファイル内に推奨引用、Version of RecordへのDOI、CC BY-NC-ND 4.0の表示があります。データとRスクリプトを利用する場合は、この論文を引用してください。</p>
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2025</p>
+
+### Value Co-Destruction Causing Customers to Stop Service Usage: A Topic Modelling Analysis of Dental Service Complaint Data
+
+<p class="citation">Goto, H., Belal, H. M., & Shirahada, K. (2025). <em>Annals of Operations Research</em>, 348, 1691–1711.</p>
+
+<p class="publication-meta">DOI: 10.1007/s10479-022-05045-z · First published online: 8 November 2022</p>
+
+::: {.publication-links}
+[Open access](https://doi.org/10.1007/s10479-022-05045-z){.publication-link}
+:::
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2022</p>
+
+### 狭小商圏型ドラッグストアにおけるID-POSによる顧客分析とISM構築
+
+<p class="citation">五島 光・尾池 勇紀・山下 貴子（2022）『マーケティングレビュー』3(1), 3–11.</p>
+
+<p class="publication-meta">DOI: 10.7222/marketingreview.2022.001</p>
+
+::: {.publication-links}
+[Open access](https://doi.org/10.7222/marketingreview.2022.001){.publication-link}
+:::
+:::
+:::
+:::
+
+::: {.publication-group}
+## Peer-reviewed Conference Papers／査読付き国際会議論文
+
+::: {.publication-list}
+::: {.publication-entry}
+<p class="publication-year">2018</p>
+
+### Antecedents of Value Co-Destruction in High-Contact Service: An Exploratory Analysis of Negative Word of Mouth with Topic Model
+
+<p class="citation">Goto, H., & Shirahada, K. (2018). <em>Joint International Conference of Service Science and Innovation and Serviceology (ICSSI 2018 & ICServ 2018)</em>, 3, 268–273.</p>
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2017</p>
+
+### Estimating the Causal Effect of Value Co-Creation Practice Leading to Improve Well-Being: A Case of Oral Healthcare in Japan
+
+<p class="citation">Goto, H., & Shirahada, K. (2017). <em>Proceedings of the 8th International Research Symposium in Service Management</em>.</p>
+:::
+:::
+:::
+
+::: {.publication-group}
+## Books and Chapters／書籍・分担執筆
+
+::: {.publication-list}
+::: {.publication-entry}
+<p class="publication-year">2019</p>
+
+### 第14章 歯医者さんに通うのはお好きですか？――サービスの受け手による価値共創の実践
+
+<p class="citation">五島 光（2019）豊田秀樹編著『たのしいベイズモデリング2――事例で拓く研究のフロンティア』北大路書房.</p>
+
+<p class="publication-meta">ISBN: 9784762830839</p>
+:::
+:::
+:::
+
+::: {.publication-group}
+## Dissertations and Theses／学位論文
+
+::: {.publication-list}
+::: {.publication-entry}
+<p class="publication-year">2023 · Doctoral Dissertation</p>
+
+### ヘルスケアサービスにおけるTransformative Service Literacyの研究
+
+<p class="citation">五島 光（2023）北陸先端科学技術大学院大学博士論文（博士〈知識科学〉）.</p>
+
+::: {.publication-links}
+[Institutional repository](https://hdl.handle.net/10119/18416){.publication-link}
+:::
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2015 · Professional Master's Thesis</p>
+
+### 価値共創が与える歯科医院の患者維持構造への影響分析
+
+<p class="citation">五島 光（2015）同志社大学大学院ビジネス研究科専門職学位論文.</p>
+:::
+:::
+:::
+
+::: {.publication-group}
+## Selected Conference Presentations／主な学会発表
+
+- 五島 光（2026）「サービス共創における顧客準備性――顧客共創準備性（CCCR）尺度の概念モデルと開発の予備的検討」サービス学会第14回国内大会。
+- 五島 光・吉田 明（2025）「スポーツ観戦におけるファン化のメカニズム：メディア接触からライフスタイル統合へ――スポーツライフ・データの二次分析」日本マーケティング学会カンファレンス2025。
+- 五島 光・深瀬 澄（2025）「サービス文脈における顧客経験の構造と行動的ロイヤルティへの影響」日本ホスピタリティ・マネジメント学会第33回全国大会。
+- 五島 光（2025）「非技術ベースサービスにおける顧客準備性の成果指標への影響分析（に向けて）」サービス学会第13回国内大会。
+- 五島 光（2024）「ネットワーク分析による顧客経験品質の測定尺度の検証――顧客経験マネジメントへの応用を見据えて」マーケティングカンファレンス2024。
+- 五島 光・伊藤 泰信（2023）「専門サービスの信頼属性が価値共創プロセスに与える影響の分析――質的データを用いた主題分析による探索的アプローチ」日本マーケティング学会カンファレンス2023。
+
+::: {.materials-note style="margin-top: 2rem;"}
+業績の全件は[researchmap](https://researchmap.jp/hikarugoto)に掲載しています。
+:::
+:::
+:::

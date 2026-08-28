@@ -1,0 +1,23 @@
+---
+title: "Materials"
+description: "五島光の教材・学習資料。"
+page-layout: full
+---
+
+::: {.site-shell}
+::: {.page-header}
+# Materials
+
+教材
+:::
+
+::: {.section-block}
+<p class="section-label">Teaching Materials</p>
+
+## 教材
+
+::: {.materials-note}
+準備中
+:::
+:::
+:::
