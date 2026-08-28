@@ -13,6 +13,7 @@ project:
 website:
   title: "Hikaru Goto"
   site-url: "https://hikarugoto.com"
+  google-analytics: "G-SWFKP1Y4CV"
   description: "五島光（大阪経済法科大学）の研究者個人サイト。サービスマーケティング、顧客経験、価値共創、顧客共創準備性、Transformative Service Researchに関する研究成果を掲載しています。"
   favicon: assets/favicon.svg
   image: "https://hikarugoto.com/gotohikaru2024.jpg"
