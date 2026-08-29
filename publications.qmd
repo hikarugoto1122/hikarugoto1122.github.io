@@ -31,7 +31,7 @@ page-layout: full
 [R script](AAM/aam-jrcs-2026/Rcode_dfcsv_revision.R){.publication-link}
 :::
 
-<p class="publication-note">著者最終稿は出版社版ではありません。ファイル内に推奨引用、Version of RecordへのDOI、CC BY-NC-ND 4.0の表示があります。データとRスクリプトを利用する場合は、出版社版を引用してください。</p>
+<p class="publication-note">著者最終稿は出版社版ではありません。ファイル内に推奨引用、Version of RecordへのDOI、CC BY-NC-ND 4.0の表示があります。</p>
 :::
 
 ::: {.publication-entry}
