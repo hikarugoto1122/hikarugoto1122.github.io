@@ -55,6 +55,7 @@ format:
   html:
     theme: [cosmo, brand, styles.scss]
     lang: ja
+    canonical-url: true
     toc: false
     anchor-sections: false
     link-external-newwindow: true
