@@ -1,6 +1,6 @@
 ---
 title: "Hikaru Goto, PhD"
-description: "Academic website of Hikaru Goto, a service marketing researcher studying customer participation, customer experience, value co-creation, and transformative services."
+description: "Hikaru Goto is an Assistant Professor at Osaka University of Economics and Law specializing in service marketing and consumer behavior. His research focuses on customer participation, customer co-creation readiness (CCCR), co-creation gaps, Transformative Service Literacy (TSL), and service design."
 lang: en
 page-layout: full
 ---
@@ -9,19 +9,21 @@ page-layout: full
 ::: {.page-header}
 # Hikaru Goto, PhD
 
-Assistant Professor · Service Marketing and Consumer Research
+Assistant Professor · Service Marketing and Consumer Behavior
 :::
 
 ::: {.section-block}
 <p class="section-label">Profile</p>
 
-## I study how customer participation shapes service experiences and outcomes
+## I study the conditions that enable people to achieve goals they value through services
 
 :::: {.english-profile-grid}
 ::: {.english-profile-copy}
-I am an Assistant Professor in the Faculty of Business Administration at Osaka University of Economics and Law. My research examines the demands placed on customers during service use and customers’ readiness to meet those demands. I am particularly interested in why customers facing similar service requirements follow different paths: continuing independently, seeking support, switching to another option, postponing, or discontinuing service use.
+I am an Assistant Professor in the Faculty of Business Administration at Osaka University of Economics and Law, specializing in service marketing and consumer behavior. I study how customers’ readiness, literacy, and available resources interact with participation demands, support, options, and institutional arrangements in services. I am particularly interested in why customers using the same service follow different paths—continuing independently, using support, switching to another option, postponing, or giving up—and how these paths shape their opportunities to achieve goals they value.
 
-My work connects customer participation and customer co-creation readiness with customer experience, value co-creation and value co-destruction, continued use, and well-being. Before joining academia, I worked in the private sector. I received a PhD in Knowledge Science from the Japan Advanced Institute of Science and Technology and an MBA from Doshisha University.
+My work connects customer participation and customer co-creation readiness with co-creation gaps, service design, and Transformative Service Literacy. I distinguish completing a provider’s intended service pathway from achieving the customer’s own goals, and examine differences in substantive opportunities for value realization. Consumer well-being is a long-term normative concern; individual studies address specific processes and outcomes relevant to their research questions.
+
+Before joining academia, I worked in the private sector. I received a PhD in Knowledge Science from the Japan Advanced Institute of Science and Technology and an MBA from Doshisha University.
 
 ::: {.profile-links}
 [researchmap](https://researchmap.jp/hikarugoto){.profile-link}
@@ -42,31 +44,25 @@ My work connects customer participation and customer co-creation readiness with 
 ::: {.section-block}
 <p class="section-label">Research Interests</p>
 
-## Four connected areas guide my research
+## Three connected areas guide my research
 
-:::: {.fact-grid}
+:::: {.research-grid}
 ::: {.fact-card}
-### Customer participation and readiness
+### Customer participation and co-creation readiness
 
-Customer participation and customer co-creation readiness, including the knowledge, capabilities, motivation, and resources needed for service use.
+I conceptualize and develop measures of Customer Co-Creation Readiness (CCCR), focusing on customers’ readiness to understand and perform their roles and their motivation to participate in service provision. I examine how readiness fits the demands and support of a particular service, rather than treating it as a fixed ranking of customers.
 :::
 
 ::: {.fact-card}
-### Customer experience and behavior
+### Co-creation gaps and service design
 
-Customer experience quality, relative satisfaction, continued use, and the structural disconnection between favorable evaluations and behavioral outcomes.
+I study how the interaction between participation demands and CCCR leads customers to continue independently, use support, switch to another option, postpone, or give up. These paths can produce co-creation gaps: differences in the likelihood, burden, and extent of goal attainment. I examine when support, alternative options, and changes to participation demands can reduce these gaps.
 :::
 
 ::: {.fact-card}
-### Value formation and well-being
+### Transformative Service Literacy and opportunities for value realization
 
-Value co-creation, value co-destruction, resource integration, and the conditions under which services improve or diminish well-being.
-:::
-
-::: {.fact-card}
-### Transformative service research
-
-Service systems that support customer agency and participation, especially in healthcare and other professional service contexts.
+I am developing Transformative Service Literacy (TSL), a concept proposed in my [doctoral dissertation](https://hdl.handle.net/10119/18416), as a way of understanding foundational abilities related to understanding, evaluating, and using services to pursue goals people value. I examine how these abilities relate to information, support, available options, and service environments, with the long-term aim of understanding how services can expand people’s substantive opportunities.
 :::
 ::::
 :::
