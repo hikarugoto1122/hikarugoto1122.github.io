@@ -1,0 +1,35 @@
+---
+title: "Framing the Attitude-Behavior Gap as Structural Disconnection: A Dual-Level Diagnostic of Customer Experience Quality"
+description: "Abstract and author-accepted manuscript of Hikaru Goto's 2026 article in Journal of Retailing and Consumer Services, volume 92, article 104814."
+lang: en
+page-layout: full
+format:
+  html:
+    include-in-header:
+      - ../../includes/aam-jrcs-2026-head.html
+---
+
+::: {.site-shell}
+# Framing the Attitude-Behavior Gap as Structural Disconnection: A Dual-Level Diagnostic of Customer Experience Quality {.citation_title}
+
+<p class="citation_author">Hikaru Goto</p>
+
+<p class="citation"><em>Journal of Retailing and Consumer Services</em>, 92, 104814 (2026). DOI: <a href="https://doi.org/10.1016/j.jretconser.2026.104814">10.1016/j.jretconser.2026.104814</a></p>
+
+## Abstract
+
+Retail and consumer-service managers often face an attitude–behavior gap: high satisfaction does not translate into higher share of wallet (SoW). This study frames this gap as structural disconnection and examines the links among customer experience quality (EXQ), relative satisfaction (RSAT), and SoW in Japan. Survey data from repeat customers of face-to-face services (n = 532) were analyzed using structural equation modeling (SEM) and psychological network analysis (PNA). SEM supports EXQ as a higher-order construct and shows a clear positive association between EXQ and RSAT, but the RSAT → SoW path is small and explains little variance in SoW (R² = .008). In the network, SoW is isolated from a dense EXQ–RSAT core, suggesting that wallet allocation is structurally disconnected from experience evaluations within the measured system. We propose a dual-level diagnostic workflow that uses SEM to assess global associations and PNA to map microstructure and the (dis)connection of behavioral outcomes, providing context-specific evidence from Japan.
+
+## Full text and research materials
+
+::: {.publication-links}
+[Accepted manuscript (PDF)](aam-jrcs-2026.pdf){.publication-link .publication-link-aam}
+[Published version](https://doi.org/10.1016/j.jretconser.2026.104814){.publication-link}
+[Data (CSV)](df.csv){.publication-link}
+[R script](Rcode_dfcsv_revision.R){.publication-link}
+:::
+
+This is the author-accepted manuscript, not the Version of Record. Please cite the published article using the DOI above. © 2026. This manuscript version is made available under the [CC BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+[Full publication list](../../publications.qmd)
+:::

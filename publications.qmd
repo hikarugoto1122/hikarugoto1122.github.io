@@ -26,6 +26,7 @@ page-layout: full
 
 ::: {.publication-links}
 [Published version](https://doi.org/10.1016/j.jretconser.2026.104814){.publication-link}
+[Abstract and details](AAM/aam-jrcs-2026/index.qmd){.publication-link}
 [Accepted manuscript](AAM/aam-jrcs-2026/aam-jrcs-2026.pdf){.publication-link .publication-link-aam}
 [Data (CSV)](AAM/aam-jrcs-2026/df.csv){.publication-link}
 [R script](AAM/aam-jrcs-2026/Rcode_dfcsv_revision.R){.publication-link}
