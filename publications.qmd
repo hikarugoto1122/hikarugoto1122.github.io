@@ -18,6 +18,22 @@ page-layout: full
 ::: {.publication-entry}
 <p class="publication-year">2026</p>
 
+### Service Participation Depth in Experiential Services: Media Touchpoints and Supportive Practices
+
+<p class="citation">Goto, H. (2026). <em>Journal of Services Marketing</em>, 1–11.</p>
+
+<p class="publication-meta">DOI: 10.1108/JSM-05-2026-0444 · Published online: 10 November 2026</p>
+
+::: {.publication-links}
+[Published version](https://doi.org/10.1108/JSM-05-2026-0444){.publication-link}
+[Abstract and details](AAM/aam-jsm-2026/){.publication-link}
+[Accepted manuscript](AAM/aam-jsm-2026/aam-jsm-2026.pdf){.publication-link .publication-link-aam}
+:::
+:::
+
+::: {.publication-entry}
+<p class="publication-year">2026</p>
+
 ### Framing the Attitude-Behavior Gap as Structural Disconnection: A Dual-Level Diagnostic of Customer Experience Quality
 
 <p class="citation">Goto, H. (2026). <em>Journal of Retailing and Consumer Services</em>, 92, 104814.</p>

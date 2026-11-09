@@ -1,0 +1,54 @@
+---
+title: "Service Participation Depth in Experiential Services: Media Touchpoints and Supportive Practices"
+description: "Abstract and author-accepted manuscript of Hikaru Goto's 2026 article in Journal of Services Marketing."
+lang: en
+page-layout: full
+format:
+  html:
+    include-in-header:
+      - text: |
+          <meta name="citation_title" content="Service Participation Depth in Experiential Services: Media Touchpoints and Supportive Practices">
+          <meta name="citation_author" content="Goto, Hikaru">
+          <meta name="citation_publication_date" content="2026/11/10">
+          <meta name="citation_journal_title" content="Journal of Services Marketing">
+          <meta name="citation_issn" content="0887-6045">
+          <meta name="citation_firstpage" content="1">
+          <meta name="citation_lastpage" content="11">
+          <meta name="citation_doi" content="10.1108/JSM-05-2026-0444">
+          <meta name="citation_pdf_url" content="https://hikarugoto.com/AAM/aam-jsm-2026/aam-jsm-2026.pdf">
+          <meta name="citation_fulltext_world_readable" content="true">
+          <meta name="citation_language" content="en">
+---
+
+::: {.site-shell}
+# Service Participation Depth in Experiential Services: Media Touchpoints and Supportive Practices {.citation_title}
+
+<p class="citation_author">Hikaru Goto</p>
+
+<p class="citation"><em>Journal of Services Marketing</em>, 1–11 (2026). DOI: <a href="https://doi.org/10.1108/JSM-05-2026-0444">10.1108/JSM-05-2026-0444</a></p>
+
+<p class="publication-meta">Accepted: 17 October 2026 · Published online: 10 November 2026</p>
+
+## Abstract
+
+**Purpose.** This study examines how media touchpoints, involvement and supportive practices are associated with any live attendance and attendance intensity in spectator sport services.
+
+**Design/methodology/approach.** Individual-level data from the Sports Life Survey 2024 (Adults) were analyzed using a two-part Bayesian sparse model: a Bernoulli-logit model for any attendance and a zero-truncated negative binomial model for conditional attendance intensity. Prior predictive checks and sensitivity analyses assessed key modeling decisions.
+
+**Findings.** Any attendance showed positive posterior associations with online J.League viewing, televised Nippon Professional Baseball viewing, transportation support, televised J.League viewing and sport-club involvement. Online Nippon Professional Baseball viewing remained positive across specifications, but its main-model 95% credible interval narrowly included zero. Conditional attendance intensity was positively associated with online J.League viewing and preparation support. Sample-averaged predictions indicated a 22.9-percentage-point difference in any-attendance probability and a 2.71-attendance difference in the conditional expected count for online J.League viewing; preparation support showed a 2.79-attendance difference in the conditional expected count.
+
+**Practical implications.** Managers should distinguish initiatives aimed at generating physical participation from those aimed at increasing intensity among attendees and should test media-linked attendance communications and coordination-support tools separately.
+
+**Originality.** The study decomposes service participation into occurrence and conditional intensity and jointly examines mediated touchpoints, involvement and supportive practices within a high-dimensional Bayesian framework.
+
+## Full text
+
+::: {.publication-links}
+[Accepted manuscript (PDF)](aam-jsm-2026.pdf){.publication-link .publication-link-aam}
+[Published version](https://doi.org/10.1108/JSM-05-2026-0444){.publication-link}
+:::
+
+This is the author-accepted manuscript. Please cite the published article using the DOI above. © 2026 Emerald Publishing Limited. Licensed re-use rights only.
+
+[Full publication list](../../publications.qmd)
+:::
